@@ -1,0 +1,3 @@
+var myFirstName = "hola"
+
+var myLastName = "chau"
